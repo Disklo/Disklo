@@ -21,3 +21,11 @@ Here are some ideas to get you started:
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disklo&layout=compact&langs_count=16&theme=dark">
     </a>
 </div>
+
+  ##
+
+<div> 
+  <a href = "mailto:rafaellcarvalho5@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-lucio-61251b273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
