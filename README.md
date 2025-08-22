@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Disklo&layout=compact&theme=dark)
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats">
+    </td>
+    <td>
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" alt="Top Languages">
+    </td>
+  </tr>
+</table>
